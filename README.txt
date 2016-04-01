@@ -23,6 +23,6 @@ http://localhost:9001/rest/hotel/id/1
 List or with sort options on price field:
 http://localhost:9001/rest/hotel/listall?sortOrderByPrice=asc
 
-Used Jetty integrated server, use config.propertied to congifure DB/apikeys and its number of max request
+Used Jetty integrated server, use config.properties to congifure DB/apikeys and its number of max request
 
 

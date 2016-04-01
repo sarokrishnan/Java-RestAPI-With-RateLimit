@@ -25,4 +25,6 @@ http://localhost:9001/rest/hotel/listall?sortOrderByPrice=asc
 
 Used Jetty integrated server, use config.properties to congifure DB/apikeys and its number of max request
 
+rack (maven/jersey/java/mongo/integrated jetty server)
+
 
